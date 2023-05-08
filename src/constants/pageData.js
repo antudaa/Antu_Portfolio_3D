@@ -35,7 +35,7 @@ export const SKILLS_LIST = {
   separation: 2.4,
   leftPadding: -0.4,
   topPadding: 0.33,
-  scale: 0.15,
+  scale: 0.12,
   items: [
     { url: 'icons/js.png', websiteURL: null },
     { url: 'icons/react-logo.png', websiteURL: null },
@@ -48,7 +48,7 @@ export const SKILLS_LIST = {
     { url: 'icons/python-logo.png', websiteURL: null },
     { url: 'icons/mongodb.png', websiteURL: null },
     { url: 'icons/git.png', websiteURL: null },
-    { url: 'icons/express.png', websiteURL: null },
+    { url: 'icons/next.js.png', websiteURL: null },
   ],
 };
 
