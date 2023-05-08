@@ -26,10 +26,11 @@ const configs = {
       displayAt: displayAt('About'),
       title: 'Who Am I?',
       infos: [
-        "* I'm a maker, a curious thinker who enjoys learning and comprehending how things function.",
-        '* My journey as a software developer started when I was a just a kid trying to figure out how video games where made.',
-        '* I started my career as a front-end developer around 6 years ago in 2017, and since then I have helped many startup companies and non-profit organizations to develop quality products.',
-        '* I have a wide range of skills, of which I can say that I’ve mastered many.',
+        "* I am a computer science undergraduate. I have a great hunger of learn new technologies. I love to explore",
+
+        '* My expertise is in the area of React JS & Responsive Design. With every line of code, I strive to make the web a beautiful place. Feel free to take a look at my latest projects on the web portfolio page. Thank you for visiting my portfolio.',
+
+        '* I have a good range of skills, of which I can say that I’ve mastered some.',
       ],
     },
     {
@@ -67,7 +68,7 @@ const configs = {
           {
             url: 'icons/resume.png',
             websiteURL:
-              'https://docs.google.com/document/d/1wKGkXHhd7q5v3AOGPMK6Gtehpp_Tkp90BvUufUqQIRc/edit?usp=sharing',
+              'https://drive.google.com/file/d/1X26auGP2c2SAYdgc1Ny70nJPEkl4IQtH/view?usp=sharing',
           },
         ],
       },
@@ -87,29 +88,29 @@ const configs = {
         scale: 0.3,
         items: [
           {
-            url: 'websites-preview/nft-place-logo.png',
-            websiteURL: 'https://nft-place.xyz/',
+            url: 'websites-preview/bit-nft.png',
+            websiteURL: 'https://github.com/antudaa/Bit-NFT',
           },
           {
-            url: 'websites-preview/snow-hero.png',
-            websiteURL: 'https://powtom48.itch.io/snow-the-hero',
+            url: 'websites-preview/lens-king.png',
+            websiteURL: 'https://github.com/antudaa/Lens-King-Client-Site',
           },
           {
-            url: 'websites-preview/minecraft-in-js.png',
+            url: 'websites-preview/learn-skills.png',
             websiteURL:
-              'https://www.youtube.com/watch?v=yOUQquusyiY&t=123s&ab_channel=tomugon',
+              'https://github.com/antudaa/learn.info',
           },
           {
-            url: 'websites-preview/fish-chopter.png',
-            websiteURL: 'https://powtom48.itch.io/fishcopter',
+            url: 'websites-preview/panda-commerce.png',
+            websiteURL: 'https://github.com/antudaa/panda-commerce-website',
           },
           {
-            url: 'websites-preview/odd-clowns.png',
-            websiteURL: 'https://oddclowns.com/',
+            url: 'websites-preview/resaleLand.png',
+            websiteURL: 'https://github.com/antudaa/Resale-Land-Client-Site',
           },
           {
-            url: 'websites-preview/island-ai.png',
-            websiteURL: 'https://www.instagram.com/island.ai/',
+            url: 'websites-preview/helping-hand.png',
+            websiteURL: 'https://github.com/antudaa/helping-hand',
           },
         ],
       },
@@ -130,20 +131,20 @@ const configs = {
         items: [
           {
             url: 'icons/twitter.png',
-            websiteURL: 'https://twitter.com/kiter_js',
+            websiteURL: 'https://twitter.com/antu_daa',
           },
           {
             url: 'icons/linkedin.png',
             websiteURL:
-              'https://www.linkedin.com/in/tomas-gonzalez-perez-8784a2133/',
+              'https://www.linkedin.com/in/antu-antu/',
           },
           {
             url: 'icons/github.png',
-            websiteURL: 'https://github.com/TomasGonzalez',
+            websiteURL: 'https://github.com/antudaa',
           },
           {
             url: 'icons/email.png',
-            websiteURL: 'mailto:tomasgp14@gmail.com',
+            websiteURL: 'antu.haks@gmail.com',
           },
         ],
       },
