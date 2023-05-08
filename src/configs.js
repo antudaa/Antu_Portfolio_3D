@@ -19,6 +19,7 @@ const configs = {
   navTitle: 'Antu Das Portfolio.',
   relevantStops: STOPS,
   pages: [
+    // About Section Data
     {
       scale: 15,
       rotation: [Math.PI, 0, Math.PI],
@@ -33,6 +34,8 @@ const configs = {
         '* I have a good range of skills, of which I can say that I’ve mastered some.',
       ],
     },
+
+    // EXPERIENCE Section Data 
     {
       scale: 15,
       displayAt: displayAt('Experience'),
@@ -42,6 +45,8 @@ const configs = {
       imageList: EXPERIENCE,
       footer: 'You can click the icons to find out more.',
     },
+
+    // SKILL Set Data 
     {
       scale: 15,
       displayAt: displayAt('Skills'),
@@ -51,6 +56,8 @@ const configs = {
       footer: 'And more...',
       imageList: SKILLS_LIST,
     },
+
+    // CLICK TO VIEW RESUME DATA 
     {
       scale: 15,
       displayAt: displayAt('Download CV'),
@@ -73,6 +80,8 @@ const configs = {
         ],
       },
     },
+
+    // DISPLAY PROJECT SECTION DATA 
     {
       scale: 15,
       displayAt: displayAt('Personal Projects'),
@@ -115,6 +124,8 @@ const configs = {
         ],
       },
     },
+
+    // CONTACT SECTION DATA 
     {
       scale: 15,
       displayAt: displayAt('Get In Touch'),

@@ -9,6 +9,7 @@
 
 export const PAGE_DEPH_MARGIN = 15;
 
+// EXPERIENCE Data 
 export const EXPERIENCE = {
   rows: 1,
   separation: 3,
@@ -30,6 +31,7 @@ export const EXPERIENCE = {
   ],
 };
 
+// SKILLS DATA 
 export const SKILLS_LIST = {
   rows: 4,
   separation: 2.4,
@@ -52,6 +54,7 @@ export const SKILLS_LIST = {
   ],
 };
 
+// Positioning Data 
 export const STOPS = [
   { displayPosition: 0, position: 0, name: 'Title' },
   {
