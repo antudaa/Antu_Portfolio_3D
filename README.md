@@ -9,7 +9,7 @@ Created by Tomas Gonzalez.
 # Example: 
 https://tomasgonzalez.github.io/3d-portfolio/
 
-https://user-images.githubusercontent.com/26396804/193622132-c7e12305-3cbf-4c4c-8992-2f58104a5068.mp4
+Video
 
 
 # Get started!
@@ -20,11 +20,11 @@ Start by `forking` this repository, then clone your forked copy and navigate to 
 
 ## Install the dependencies with: 
 
-### `yarn`
+### `npm`
 
 ## Then start the development server with:
 
-### `yarn start`
+### `npm start`
 
 This runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
@@ -51,11 +51,10 @@ After pushing the branch to GitHub, head over to the `Settings` page of the repo
 
 After that run:
 
-### `yarn deploy`
+### `npm deploy`
 
 And thats It! It will automatically deploy to `https://{username}.github.io/{repo-name}`
 
 # More info
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/tomasgonzalez)
 
