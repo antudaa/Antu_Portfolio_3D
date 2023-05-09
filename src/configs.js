@@ -6,6 +6,7 @@ import {
   EXPERIENCE,
 } from './constants/pageData';
 
+
 const configs = {
   title: 'Antu Das',
   subTitle: 'Dev Portfolio.',
@@ -64,7 +65,7 @@ const configs = {
       rotation: [0, 0, 0],
       position: [0, 0, PAGE_DEPH_MARGIN],
       title: 'Here is my CV!',
-      footer: 'Click the icon above to view!',
+      footer: 'Click the icon above to View & Download!',
       imageList: {
         rows: 1,
         separation: 3,
@@ -75,7 +76,7 @@ const configs = {
           {
             url: 'icons/resume.png',
             websiteURL:
-              'https://drive.google.com/file/d/1X26auGP2c2SAYdgc1Ny70nJPEkl4IQtH/view?usp=sharing',
+              'Resume/Antu Resume.pdf',
           },
         ],
       },
@@ -154,7 +155,7 @@ const configs = {
             websiteURL: 'https://github.com/antudaa',
           },
           {
-            url: 'icons/email.png',
+            url: 'icons/gmail.png',
             websiteURL: 'antu.haks@gmail.com',
           },
         ],

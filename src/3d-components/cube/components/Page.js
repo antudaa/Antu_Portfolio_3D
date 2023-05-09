@@ -46,8 +46,10 @@ function Face({ rotation, position, displayAt, ...page }) {
 function Page() {
   return (
     <group>
-      {pages.map((page) => {
-        return <Face {...page} />;
+      {pages.map((page, i) => {
+        return <Face
+          key={i}
+          {...page} />;
       })}
     </group>
   );

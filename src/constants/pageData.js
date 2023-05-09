@@ -54,6 +54,7 @@ export const SKILLS_LIST = {
   ],
 };
 
+
 // Positioning Data 
 export const STOPS = [
   { displayPosition: 0, position: 0, name: 'Title' },

@@ -24,6 +24,8 @@ const ImageSection = ({ imageList }) => {
 
         return (
           <Image
+            href='Resume/Antu Resume.pdf'
+            download
             onClick={() => {
               if (item.websiteURL) {
                 if (webViewer) {
